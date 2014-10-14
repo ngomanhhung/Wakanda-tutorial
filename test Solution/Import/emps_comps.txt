@@ -1,0 +1,1 @@
+a	a	a	1000b	b	b	2000c	c	c	3000d	d	d	4000c	d	c	1000d	c	c	4000a	c	b	5000
